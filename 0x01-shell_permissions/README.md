@@ -1,0 +1,3 @@
+su betty
+whoami
+groups
